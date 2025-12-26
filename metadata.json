@@ -1,0 +1,5 @@
+{
+  "name": "UK 2026 Smart Leave Planner",
+  "description": "An interactive UK 2026 holiday planner. Visualize Bank Holidays, calculate annual leave usage, and export your plan.",
+  "requestFramePermissions": []
+}
